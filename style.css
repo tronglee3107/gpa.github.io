@@ -11,6 +11,12 @@ h1{
     margin: 0 auto;
     display: inline-block;
 }
+
+a{
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
 .button-85 {
   padding: 0.6em 2em;
   border: none;
